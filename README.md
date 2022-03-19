@@ -24,7 +24,7 @@
     - **I am trying to improve my art skills with [drawabox](http://www.drawabox.com). 🎭**
     - **I love cats, I've got a golden ragtail. 🐱**
     - **I am primarily interested in Philosophical and Futurist discussions. Helps me cope with anxiety 😅**
-    - **Reading every available webnovel on [royalroad](https://www.royalroad.com), Pian. 😉** 
+    - **Reading every available webnovel on [royalroad](https://www.royalroad.com). 😉** 
     
 ## 🚀 Languages and Tools:
 
