@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diogenes of toronto</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diogenes of Toronto</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my **A personal portfolio, a blog, a game called tweetio(on perpetual hold for now), and a an app called Write and Tell (many more).** 
+- 🔭 I’m currently working on my **A personal portfolio, a blog, a game called tweetio(on perpetual hold for now), and an app called Write and Tell (many more).** 
 
 - 🌱 I’m currently learning **Flutter/Dart, Firebase, and WebXR.**
 
@@ -23,7 +23,7 @@
     - **Wanna be Piano-forte maestro. 🎹**
     - **I am trying to improve my art skills with [drawabox](http://www.drawabox.com). 🎭**
     - **I love cats, I've got a golden ragtail. 🐱**
-    - **I am primarily interested in Philosophical and Futurist discussions. Helps me cope with anxiety 😅**
+    - **I am primarily interested in Philosophical and Futurist discussions. Helps me cope with anxiety. 😅**
     - **Reading every available webnovel on [royalroad](https://www.royalroad.com). 😉** 
     
 ## 🚀 Languages and Tools:
