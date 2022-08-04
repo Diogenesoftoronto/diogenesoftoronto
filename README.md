@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diogenes of Toronto</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+  <img src="https://i.giphy.com/media/1C8bHHJturSx2/giphy.webp" />
 </p>
 
 <h2 align="center">I'm a passionate Full Stack Developer from Toronto, Canada.</h3>
