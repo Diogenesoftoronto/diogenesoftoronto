@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on my **A personal portfolio, a blog, a game called tweetio(on perpetual hold for now), and an app called Write and Tell (many more).** 
 
-- 🌱 I’m currently learning **Flutter/Dart, Firebase, and WebXR.**
+- 🌱 I’m currently learning **[Temporal](https://temporal.io/), Go, and Unity for XR.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
