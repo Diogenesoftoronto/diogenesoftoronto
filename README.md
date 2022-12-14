@@ -62,7 +62,7 @@
     <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogenesoftoronto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
   <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesoftoronto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
+    <a href="https://github.com/Diogenesoftoronto/github-readme-stats"><img alt="Dio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesoftoronto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
     
   <br/>
@@ -73,7 +73,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/diogenesoftoronto/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=diogenesoftoronto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/diogenesoftoronto/github-readme-activity-graph"><img alt="Dio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=diogenesoftoronto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -85,12 +85,9 @@
 </h2>
 
 <p align="center">
-<!-- 
-to add later
-<a href = "https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a> -->
-<!-- <a href = ""><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a> -->
-    
-<a href = "https://twitter.com/chocsoydev"><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/>
+
+<a href = "https://mastodon.online/@dio"><img src="https://icons8.com/icon/ITKS1olYDyMw/mastodon-is-an-online%2C-self-hosted-social-media%2C-and-social-networking-service."/></a>
+<a href="https://linktr.ee/wasmtime"><img src="https://icons8.com/icon/GfTOMrwiax2M/linktree"/>
 </a>
 
 </p>
