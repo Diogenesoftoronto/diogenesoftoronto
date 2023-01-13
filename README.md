@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my **A personal portfolio, a blog, a game called tweetio(on perpetual hold for now), and an app called Write and Tell (many more).** 
+- 🔭 I’m currently working on my **A personal portfolio, a blog, a mulitiplayer game called tichu, and an app called Write and Tell (many more).** 
 
 - 🌱 I’m currently learning **[Temporal](https://temporal.io/), Go, and Unity for XR.**
 
@@ -27,7 +27,7 @@
     - **Reading every available webnovel on [royalroad](https://www.royalroad.com). 😉** 
     
 ## 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,docker,linux,blender,unity,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,docker,linux,blender,unity,gitlab,postgres)](https://skillicons.dev)
 <p align="left">
         
 
