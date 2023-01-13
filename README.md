@@ -46,9 +46,9 @@
 
   <br/>
   
-https://api.githubtrends.io/user/svg/Diogenesoftoronto/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Diogenesoftoronto/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
   
   <!--   <p align="center">
     <a href="https://github.com/Diogenesoftoronto/github-readme-stats"><img alt="Dio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogenesoftoronto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
