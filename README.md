@@ -45,6 +45,7 @@
 ## 📊 My Github Stats 🏆
 
   <br/>
+  
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
   
 <p align="center">
