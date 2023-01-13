@@ -45,7 +45,7 @@
 ## 📊 My Github Stats 🏆
 
   <br/>
-  [!stuff](https://github-contribution-graph.ez4o.com/?username=wst24365888&last_n_days=10&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif)
+  ![stuff](https://github-contribution-graph.ez4o.com/?username=wst24365888&last_n_days=10&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif)
   
 https://github-contribution-graph.ez4o.com/?username=[Diogenesoftoronto]&last_n_days=[100]&img_url=["%22https%3A%2F%2Fi.giphy.com%2Fmedia%2F1C8bHHJturSx2%2Fgiphy.webp%22"]
 <p align="center">
