@@ -45,10 +45,13 @@
 ## 📊 My Github Stats 🏆
 
   <br/>
+  https://github-contribution-graph.ez4o.com/?username=wst24365888&last_n_days=10&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif
+  
 https://github-contribution-graph.ez4o.com/?username=[Diogenesoftoronto]&last_n_days=[100]&img_url=["%22https%3A%2F%2Fi.giphy.com%2Fmedia%2F1C8bHHJturSx2%2Fgiphy.webp%22"]
-
+<p align="center">
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-<!--   <p align="center">
+  </p>
+  <!--   <p align="center">
     <a href="https://github.com/Diogenesoftoronto/github-readme-stats"><img alt="Dio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogenesoftoronto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p> -->
 <!--   <p align="center">
