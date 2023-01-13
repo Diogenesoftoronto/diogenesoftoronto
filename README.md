@@ -27,7 +27,7 @@
     - **Reading every available webnovel on [royalroad](https://www.royalroad.com). 😉** 
     
 ## 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,docker,linux,blender,unity)](https://skillicons.dev)
 <p align="left">
         
 
