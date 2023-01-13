@@ -27,7 +27,7 @@
     - **Reading every available webnovel on [royalroad](https://www.royalroad.com). 😉** 
     
 ## 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,docker,linux,blender,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,docker,linux,blender,unity,gitlab)](https://skillicons.dev)
 <p align="left">
         
 
@@ -45,6 +45,7 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Diogenesoftoronto/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
+Keep in mind these are public statistics and do not demonstrate my full capabilities.
 </p>
   
   
