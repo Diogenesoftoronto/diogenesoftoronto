@@ -48,33 +48,33 @@
   <p align="center">
     <a href="https://github.com/Diogenesoftoronto/github-readme-stats"><img alt="Dio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogenesoftoronto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
-  <p align="center">
+<!--   <p align="center">
     <a href="https://github.com/Diogenesoftoronto/github-readme-stats"><img alt="Dio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenesoftoronto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
     
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
+  <br/> -->
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/Diogenesoftoronto/github-readme-activity-graph"><img alt="Dio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Diogenesoftoronto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Diogenesoftoronto/github-readme-activity-graph"><img alt="Dio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Diogenesoftoronto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
 
-<h2>
+<!-- <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
   How to reach me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-</h2>
+</h2> -->
 
 <p align="center">
 
-<a href = "https://mastodon.online/@dio"><img src="https://icons8.com/icon/ITKS1olYDyMw/mastodon-is-an-online%2C-self-hosted-social-media%2C-and-social-networking-service."></a>
+<!-- <a href = "https://mastodon.online/@dio"><img src="https://icons8.com/icon/ITKS1olYDyMw/mastodon-is-an-online%2C-self-hosted-social-media%2C-and-social-networking-service."></a>
 <a href="https://linktr.ee/wasmtime"><img src="https://icons8.com/icon/GfTOMrwiax2M/linktree">
 </a>
-
+ -->
 </p>
