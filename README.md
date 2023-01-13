@@ -30,11 +30,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,go,zig,typescript,react,python,sql)](https://skillicons.dev)
 <p align="left">
         
-</p>
-
-<br/>
-<br/>
-<br/>
 
 ## 📊 My Github Stats 🏆
 
