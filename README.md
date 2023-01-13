@@ -45,7 +45,7 @@
 ## 📊 My Github Stats 🏆
 
   <br/>
-https://github-contribution-graph.ez4o.com/?username=[Diogenesoft]&last_n_days=[100]&img_url=["https://i.giphy.com/media/1C8bHHJturSx2/giphy.webp"]
+https://github-contribution-graph.ez4o.com/?username=[Diogenesoftoronto]&last_n_days=[100]&img_url=["%22https%3A%2F%2Fi.giphy.com%2Fmedia%2F1C8bHHJturSx2%2Fgiphy.webp%22"]
 <!--   <p align="center">
     <a href="https://github.com/Diogenesoftoronto/github-readme-stats"><img alt="Dio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogenesoftoronto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p> -->
