@@ -42,12 +42,12 @@
 
 
 
-<div style="display: flex; justify-content: center;"> 
+<div style="display: flex; justify-content: center;" align="center"> 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Diogenesoftoronto/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Diogenesoftoronto/langs? time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
-<p>
-Keep in mind these are public statistics and do not demonstrate my full capabilities.
-</p>
-  </div>
+  <p>
+  Keep in mind these are public statistics and do not demonstrate my full capabilities.
+  </p>
+</div>
   
