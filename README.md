@@ -46,7 +46,7 @@
  
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Diogenesoftoronto/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 </div>
-<p align="center">
+<p>
 Keep in mind these are public statistics and do not demonstrate my full capabilities.
 </p>
   
